@@ -1,0 +1,280 @@
+{
+	"Consumables":
+		[
+			{
+				"Number": 0,
+				"Name": "Health Potion",
+				"Description": "Restore 5 points of health.",
+				"UsingValue": 5,
+				"SellingValue": 30
+			},
+			{
+				"Number": 1,
+				"Name": "Mana Potion",
+				"Description": "Restore 3 points of mana.",
+				"UsingValue": 3,
+				"SellingValue": 20
+			}
+		],	
+
+	"Weapons":
+		[
+			{
+				"Number": 0,
+				"Name": "Bastard Sword",
+				"Description": "A middle-length sword that fits all types of warrior.",
+				"Damage": 14,
+				"Speed": 100,
+				"Requirement": [0, 10, 0, 0],
+				"SellingValue": 100
+			},
+			{
+				"Number": 1,
+				"Name": "Giant Sword",
+				"Description": "A thick, heavy steel sword with extremely slow speed.",
+				"Damage": 18,
+				"Speed": 50,
+				"Requirement": [0, 12, 0, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 2,
+				"Name": "Golden Sword",
+				"Description": "A sword with high valuable in terms of material rather than power.",
+				"Damage": 10,
+				"Speed": 110,
+				"Requirement": [0, 5, 2, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 3,
+				"Name": "Iron Sword",
+				"Description": "A simple sword made of iron.",
+				"Damage": 8,
+				"Speed": 105,
+				"Requirement": [0, 3, 0, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 4,
+				"Name": "Killer Blade",
+				"Description": "A thick blade with sharp edges can even crush the enemy's bone.",
+				"Damage": 20,
+				"Speed": 70,
+				"Requirement": [0, 15, 7, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 5,
+				"Name": "Light Sword",
+				"Description": "A slim sword with fast attack speed due to its weight.",
+				"Damage": 6,
+				"Speed": 120,
+				"Requirement": [0, 5, 5, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 6,
+				"Name": "Noble Sword",
+				"Description": "A sword often seen in challenges between nobles.",
+				"Damage": 11,
+				"Speed": 95,
+				"Requirement": [0, 8, 0, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 7,
+				"Name": "Scimitar",
+				"Description": "A curved sword that was widespread throughout the Middle East.",
+				"Damage": 8,
+				"Speed": 115,
+				"Requirement": [0, 4, 5, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 8,
+				"Name": "Silver Sword",
+				"Description": "A sword that is rumoured to possess powerful magic against demon.",
+				"Damage": 10,
+				"Speed": 100,
+				"Requirement": [0, 6, 0, 0],
+				"SellingValue": 50
+			}
+		],
+
+	"Shields":
+		[
+			{
+				"Number": 0,
+				"Name": "Cross Shield",
+				"Description": "A very popular shield among crusaders.",
+				"Defense": 15,
+				"Requirement": [0, 0, 7, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 1,
+				"Name": "Evil Shield",
+				"Description": "A shield with ferocious symbols to scrare enemies.",
+				"Defense": 10,
+				"Requirement": [0, 0, 5, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 2,
+				"Name": "Iron Shield",
+				"Description": "A normal shield made from iron that could be found anywhere.",
+				"Defense": 8,
+				"Requirement": [0, 0, 2, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 3,
+				"Name": "Lion Shield",
+				"Description": "A shield that is believed to bring courage and luck to bearers.",
+				"Defense": 18,
+				"Requirement": [0, 4, 10, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 4,
+				"Name": "Noble Shield",
+				"Description": "A light and balanced shield, often used by royal members.",
+				"Defense": 12,
+				"Requirement": [0, 0, 7, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 5,
+				"Name": "Paladin Shield",
+				"Description": "A favorite shield of heavy cavalries, can stand against almost every types of weapon.",
+				"Defense": 20,
+				"Requirement": [0, 5, 15, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 6,
+				"Name": "Round Shield",
+				"Description": "A normal wooden shield with low durability but is easy to move.",
+				"Defense": 7,
+				"Requirement": [0, 0, 1, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 7,
+				"Name": "Square Shield",
+				"Description": "Has the same materials as the round shield but larger size.",
+				"Defense": 9,
+				"Requirement": [0, 0, 3, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 8,
+				"Name": "Teutonic Shield",
+				"Description": "A famous shield of Teutonic Knight Order due to its high toughness.",
+				"Defense": 22,
+				"Requirement": [0, 7, 12, 0],
+				"SellingValue": 50
+			}
+		],
+
+	"Amulets":
+		[
+			{
+				"Number": 0,
+				"Name": "Amethyst Amulet",
+				"Description": "Holding a subtle charm, this amulet is loved by every noble lady.",
+				"Requirement": [5, 0, 0, 0],
+				"SellingValue": 50
+				
+			},
+			{
+				"Number": 1,
+				"Name": "Blue Gem Amulet",
+				"Description": "A sophisticated necklace decorated with blue gem from the Nalian Sea.",
+				"Requirement": [3, 0, 0, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 2,
+				"Name": "Fire Lord Anger Amulet",
+				"Description": "Born in the ashes of the acient kingdom Sarleon after Ragnaros, the Fire Lord's wrath, this amulet can melt everything it touchs.",
+				"FixedSpecials": [0, 4, 3, 9, 10],
+				"Requirement": [25, 0, 0, 0],
+				"SellingValue": 50
+			},	
+			{
+				"Number": 3,
+				"Name": "Nature Power Amulet",
+				"Description": "This amulet is worshipped by the druids and believed to contain power that can destroy any enemy dares to enter their lands.",
+				"FixedSpecials": [1, 5, 6, 11, 12],
+				"Requirement": [20, 0, 0, 15],
+				"SellingValue": 50
+			},
+			{
+				"Number": 4,
+				"Name": "The Three Pillars Amulet",
+				"Description": "Created by the Queen of Life from three most vital elements, Earth, Air and Water, this amulet is the ultimate goal of immortality seekers.",
+				"FixedSpecials": [4, 5, 2, 13, 14],
+				"Requirement": [30, 10, 0, 0],
+				"SellingValue": 50
+			}
+		],
+		
+	"Rings":
+		[
+			{
+				"Number": 0,
+				"Name": "Emerald Ring",
+				"Description": "A rare, thoroughly carved ring with high selling value.",
+				"Requirement": [4, 0, 0, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 1,
+				"Name": "Sapphire Ring",
+				"Description": "An exquisite ring that is believed to bring luck and peace.",
+				"Requirement": [5, 0, 0, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 2,
+				"Name": "Great Sea Of Phasis Ring",
+				"Description": "In the Great War to divide the world, Theresa, Mother Of Gods used this amulet's power to flood the Hallan continent, which then became the Great Sea of Phasis.",
+				"FixedSpecials": [7, 8, 15, 16, 17],
+				"Requirement": [15, 0, 0, 20],
+				"SellingValue": 50
+			},	
+			{
+				"Number": 3,
+				"Name": "Mysterious Diamond Ring",
+				"Description": "After the death of its last owner, king Stephen II, this amulet was rumoured to possess evil spirits and sealed in the Wizard Tower of Arcane.",
+				"FixedSpecials": [2, 3, 8, 18, 19],
+				"Requirement": [18, 0, 0, 0],
+				"SellingValue": 50
+			},
+			{
+				"Number": 4,
+				"Name": "Whisper Of Death Ring",
+				"Description": "One of the four Great Artifact of Anubik, an ancient necromancer, possessing his ultimate power that can bring death to enemies.",
+				"FixedSpecials": [7, 2, 4, 20, 21],
+				"Requirement": [21, 0, 0, 12],
+				"SellingValue": 50
+			}
+		],
+
+	"Quests":
+		[
+			{
+				"Number": 0,
+				"Name": "Blue Gem",
+				"Description": "This should do something useful when being at the right place."
+			},	
+			{
+				"Number": 1,
+				"Name": "Red Gem",
+				"Description": "This should do something useful when being at the right place."
+			}
+		]
+}
+

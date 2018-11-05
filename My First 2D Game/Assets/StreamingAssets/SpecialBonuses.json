@@ -1,0 +1,93 @@
+{
+	"Specials":
+	[
+		{
+			"Number": 0,
+			"Description": "Strength + "
+		},
+		{
+			"Number": 1,
+			"Description": "Agility + "
+		},
+		{
+			"Number": 2,
+			"Description": "Intelligence + "
+		},
+		{
+			"Number": 3,
+			"Description": "Attack Damage + "
+		},
+		{
+			"Number": 4,
+			"Description": "Health + "
+		},
+		{
+			"Number": 5,
+			"Description": "Defense + "
+		},
+		{
+			"Number": 6,
+			"Description": "Attack Speed + "
+		},
+		{
+			"Number": 7,
+			"Description": "Spell Power + "
+		},
+		{
+			"Number": 8,
+			"Description": "Mana + "
+		},
+		{
+			"Number": 9,
+			"Description": "Fire Resistance + 10%"
+		},
+		{
+			"Number": 10,
+			"Description": "Fire Damage + 20"
+		},
+		{
+			"Number": 11,
+			"Description": "Archer's Skills + 1"
+		},
+		{
+			"Number": 12,
+			"Description": "Earth Resistance + 15%"
+		},
+		{
+			"Number": 13,
+			"Description": "All Resistances + 5%"
+		},
+		{
+			"Number": 14,
+			"Description": "Regenerate 1 Health per 10 seconds "
+		},
+		{
+			"Number": 15,
+			"Description": "Water Resistance + 12%"
+		},
+		{
+			"Number": 16,
+			"Description": "Water Spell Damage + 5"
+		},
+		{
+			"Number": 17,
+			"Description": "Mage's Water Skills + 2"
+		},
+		{
+			"Number": 18,
+			"Description": "Return 20% Damage to enemies "
+		},
+		{
+			"Number": 19,
+			"Description": "Cannot be Feared "
+		},
+		{
+			"Number": 20,
+			"Description": "Raise Death Skill + 1"
+		},
+		{
+			"Number": 21,
+			"Description": "Immune to Poison"
+		}
+	]
+}

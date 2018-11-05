@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - Ground
+  - Body
+  - Trap
+  - Edge
+  - Door
+  - Wall
+  - Knight
+  - Missile
+  - Eagle
+  - Snake
+  - Bee
+  - Hazard
+  - Bear
+  - Chomper
+  - Consumable
+  - Gold
+  - Attack
+  - Shield
+  - Amulet
+  - Ring
+  - Chest
+  - Quest
+  - Border
+  - SaveSlot
+  - AudioSource
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - BackGround
+  - Obstacle
+  - Environment
+  - Decoration
+  - Item
+  - DroppingPlatform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2123478483
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3134644139
+    locked: 0
+  - name: Enemy
+    uniqueID: 2184364661
+    locked: 0
+  - name: Player
+    uniqueID: 3383596345
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3396316931
+    locked: 0
+  - name: Ground
+    uniqueID: 877715223
+    locked: 0
+  - name: Cover
+    uniqueID: 115057331
+    locked: 0
